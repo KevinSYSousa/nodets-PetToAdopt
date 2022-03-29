@@ -24,7 +24,7 @@
   <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/KevinSYSousa/nodets-pettoadopt?color=56BEB8" /> -->
 </p>
 
-Status
+## Status
 
 <h4 align="center"> 
 	🚧  Nodets PetToAdopt 🚀 Under construction...  🚧
@@ -92,7 +92,7 @@ $ yarn start
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
-Made with :heart: by <a href="https://github.com/KevinSYSousa" target="_blank">{{YOUR_NAME}}</a>
+Made with :heart: by <a href="https://github.com/KevinSYSousa" target="_blank">Kevin Sousa</a>
 
 &#xa0;
 
