@@ -9,19 +9,13 @@
 <h1 align="center">Nodets PetToAdopt</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/KevinSYSousa/nodets-pettoadopt?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/KevinSYSousa/nodets-pettoadopt?style=flat-square">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/KevinSYSousa/nodets-pettoadopt?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/KevinSYSousa/nodets-pettoadopt?style=flat-square">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/KevinSYSousa/nodets-pettoadopt?color=56BEB8">
+  <img alt="Version" src="https://img.shields.io/github/package-json/v/KevinSYSousa/nodets-pettoadopt?style=flat-square">
 
-  <img alt="License" src="https://img.shields.io/github/license/KevinSYSousa/nodets-pettoadopt?color=56BEB8">
-
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/KevinSYSousa/nodets-pettoadopt?color=56BEB8" /> -->
-
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/KevinSYSousa/nodets-pettoadopt?color=56BEB8" /> -->
-
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/KevinSYSousa/nodets-pettoadopt?color=56BEB8" /> -->
+  <img alt="License" src="https://img.shields.io/github/license/KevinSYSousa/nodets-pettoadopt?style=flat-square">
 </p>
 
 ## Status
