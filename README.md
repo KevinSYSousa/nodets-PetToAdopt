@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Nodets PetToAdopt" />
+  <img src="./.github/app.png" alt="Nodets PetToAdopt" />
 
 &#xa0;
 
@@ -27,7 +27,7 @@
 ## Status
 
 <h4 align="center"> 
-	🚧  Nodets PetToAdopt 🚀 Under construction...  🚧
+	🚧  Nodets PetToAdopt 🚀 Finish by hour  🚧
 </h4>
 
 <hr>
@@ -46,13 +46,11 @@
 
 ## :dart: About
 
-Describe your project
+My first project with node and TypeScript, this is a adopt animals page with fictional data and static
 
 ## :sparkles: Features
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: Filter;
 
 ## :rocket: Technologies
 
